@@ -7,6 +7,7 @@ Feed dog anywhere with internet access
 * Other sensors also available 
 
 Demo Link:
-https://youtu.be/cHcbtw6ZBT8
+https://youtu.be/QbYvrxSAs_k
 
 ![alt text](/auto_dog_feeder.jpg)
+![alt text](/auto_dog_timer.jpg)
